@@ -1,4 +1,5 @@
 ﻿; Spanish Characters
+; Version: 20210831
 ; alt + regular char
 ; returns char with accent or upside down punctuation
 
